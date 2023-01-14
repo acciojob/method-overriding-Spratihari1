@@ -1,5 +1,14 @@
 package com.driver;
 
+
+
+
+
 public class Main {
-int o=5;
+
+    public static void main(String[] arg){
+       B obj=new B();
+        System.out.println(obj.meth());
+    }
+
 }
