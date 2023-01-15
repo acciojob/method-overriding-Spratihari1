@@ -20,7 +20,7 @@ public class Main {
 
     public static void main(String[] arg){
        B obj=new B();
-        obj.meth();
+        System.out.println(obj.meth());
     }
 
 }
